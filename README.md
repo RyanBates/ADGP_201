@@ -3,7 +3,7 @@
 
 specifications for assessment:
 
-Intro to OpenGL:
+1.Intro to OpenGL:
 
 Purpose: 
 setup of GLFW library 
@@ -18,7 +18,7 @@ Learned how to use the environment variables to set up the libraries then use th
 
 // lot of compiler errors
 
-Camera:
+2.Camera:
 
 Purpose:
 Camera Class
@@ -28,7 +28,7 @@ Learning outcome:
  	learned how to use maxtries and showed have an understanding on how to use inheritance.
  
 
-Rendering Geometry:
+3.Rendering Geometry:
 
 Purpose:
 Render Plane(Static)
@@ -39,7 +39,7 @@ Shadders separate file
 Learning outcome: 
 	Learned the rendering pipeline to display to the screen.
 
-Lighting:
+4.Lighting:
 
 Purpose:
 Diffuse implementation with pictures/documentation.
@@ -53,7 +53,7 @@ Learning outcome:
 
 //didnt get here
 
-Textures:
+5.Textures:
 
 Purpose:
 UV mapping.
@@ -65,7 +65,8 @@ Learning outcome:
 
 //didnt get here
 
-Procedural Generation:
+6.Procedural Generation:
+
 Purpose:
 Generate perlin noise map.
 Vertex shader sampling perlin noise map.
