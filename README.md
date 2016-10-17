@@ -4,8 +4,9 @@
 specifications for assessment:
 
 Intro to OpenGL:
+
 Purpose: 
- setup of GLFW library 
+setup of GLFW library 
 Setup of OpenGL library
 Must use environment variables ie:$(SolutionDir)
 Must use inheritance. OOP in design involving a base class and classes that will inherit from this base class.
@@ -17,6 +18,7 @@ Learned how to use the environment variables to set up the libraries then use th
 
 // lot of compiler errors
 Camera:
+
 Purpose:
 Camera Class
 Must use inheritance.
@@ -37,6 +39,7 @@ Learning outcome:
 	Learned the rendering pipeline to display to the screen.
 
 Lighting:
+
 Purpose:
 Diffuse implementation with pictures/documentation.
 Ambient implementation with pictures/documentation.
@@ -49,6 +52,7 @@ Learning outcome:
 
 //didnt get here
 Textures:
+
 Purpose:
 UV mapping.
 Texture applied to plane.
@@ -69,4 +73,4 @@ Learning outcome:
 Overall Problems:
 Had problems with the projects breaking with the first item in startup no matter the order of them
 When the projects did not break they would not draw.
- When opened projects that worked from school computer and opened them at home did not work and checked to make sure libraries were there.
+When opened projects that worked from school computer and opened them at home did not work and checked to make sure libraries were there.
