@@ -26,6 +26,7 @@ Learning outcome:
  
 
 Rendering Geometry:
+
 Purpose:
 Render Plane(Static)
 Render Cube(Static)
