@@ -12,7 +12,7 @@ Must use inheritance. OOP in design involving a base class and classes that will
 
 
 Learning outcome:
-	Learned how to use the environment variables to set up the libraries then use those libraries to do what was needed to meet the requirements of drawing with gizmos. 
+Learned how to use the environment variables to set up the libraries then use those libraries to do what was needed to meet the requirements of drawing with gizmos. 
 
 
 // lot of compiler errors
