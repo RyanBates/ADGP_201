@@ -17,6 +17,7 @@ Learned how to use the environment variables to set up the libraries then use th
 
 
 // lot of compiler errors
+
 Camera:
 
 Purpose:
@@ -51,6 +52,7 @@ Learning outcome:
 	Learned the equations for the three listed lighting effects above. As well as why blinn-phong is dimmer than the phong shader.
 
 //didnt get here
+
 Textures:
 
 Purpose:
@@ -62,6 +64,7 @@ Learning outcome:
 
 
 //didnt get here
+
 Procedural Generation:
 Purpose:
 Generate perlin noise map.
