@@ -1,0 +1,5 @@
+Overall Problems
+Had problems with the projects breaking with the first item in startup no matter the order of them
+compiling errors //When the projects did not break they would not draw.
+When opened projects that worked from school computer and opened them at home did not work and checked to make sure libraries were there.
+

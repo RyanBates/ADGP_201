@@ -1,0 +1,10 @@
+Camera:
+
+Purpose:
+Camera Class
+Must use inheritance.
+
+Learning outcome: 
+ 	learned how to use maxtries
+	
+	

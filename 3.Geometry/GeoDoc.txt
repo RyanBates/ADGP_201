@@ -1,0 +1,29 @@
+Rendering Geometry:
+Purpose:
+Render Plane(Static)
+Render Cube(Static)
+Render Sphere(Procedural)&&(Method described in class)
+Shadders separate file
+
+Learning outcome: 
+	Learned the rendering pipeline to display to the screen.
+
+Lighting:
+Purpose:
+Diffuse implementation with pictures/documentation.
+Ambient implementation with pictures/documentation.
+Specular implementation with  pictures/documentation.
+Understand difference between blinn-phong and phong.
+
+
+Learning outcome:
+	Learned the equations for the three listed lighting effects above. As well as why blinn-phong is dimmer than the phong shader.
+
+
+Ambient:
+
+Diffuse:
+
+All Three:
+
+

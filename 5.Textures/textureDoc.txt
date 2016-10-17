@@ -1,0 +1,7 @@
+Textures:
+Purpose:
+UV mapping.
+Texture applied to plane.
+
+Learning outcome:
+	Used more libraries to put a texture on a plane and model.

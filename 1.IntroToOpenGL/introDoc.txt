@@ -1,0 +1,10 @@
+1.Intro to OpenGL:
+a.	Purpose: 
+1.	setup of GLFW library 
+2.	Setup of OpenGL library
+3.	Must use environment variables $(SolutionDir)
+4.	Must use inheritance. OOP in design involving a base class and classes that will inherit from this base class.
+
+
+b.	Learning outcome:
+	Learned how to use the environment variables to set up the libraries then use those libraries to do what was needed to meet the requirements of drawing with gizmos. 

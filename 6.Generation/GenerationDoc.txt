@@ -1,0 +1,6 @@
+Procedural Generation:
+Purpose:
+Generate perlin noise map.
+Vertex shader sampling perlin noise map.
+
+Learning outcome:
